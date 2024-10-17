@@ -1,0 +1,5 @@
+
+services:
+  web:
+    build: .
+    image: ekitai:1
